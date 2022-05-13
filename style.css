@@ -1,0 +1,84 @@
+body {
+    background-color: #fff;
+  }
+  
+  h1 {
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style: none;
+    padding-left: 0;
+    text-align:left;
+  }
+  
+  .container {
+    padding-left:40%;
+    height: 100vh;
+    display: flex;
+    width:390px;
+    flex-direction: column;
+    justify-content: center
+  }
+  
+  .main {
+    margin: 0 auto;
+  }
+  
+  #enter {
+    background-color: #fff;
+    border-radius: 28px;
+    border: 1px solid #18ab29;
+    display: inline-block;
+    cursor: pointer;
+    color: #18ab29;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-weight: bold
+  }
+  
+  
+  .togglebutton1 {
+    background-color: #fff;
+    border-radius: 28px;
+    border: 1px solid blue;
+    display: inline-block;
+    cursor: pointer;
+    color: blue;
+    padding: 2px 6px;
+    text-decoration: none;
+    font-weight: bold;
+    width:30px;
+  }
+  
+  .togglebutton2 {
+    background-color: #fff;
+    border-radius: 28px;
+    border: 1px solid red;
+    display: inline-block;
+    cursor: pointer;
+    color: red;
+    padding: 2px 6px;
+    text-decoration: none;
+    font-weight: bold;
+    width:12px;
+  }
+  
+  .togglebutton3 {
+    background-color: #fff;
+    border-radius: 28px;
+    border: 1px solid black;
+    display: inline-block;
+    cursor: pointer;
+    color: black;
+    padding: 2px 6px;
+    text-decoration: none;
+    font-weight: bold;
+    width:26px;
+  }
+  
+  li {
+    line-height: 1.5em;
+    height: auto;
+  }
+  
